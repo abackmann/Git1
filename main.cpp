@@ -22,5 +22,6 @@ int main(int argc, char** argv) {
     
     cout << "Test" << endl;
     cout << "Test après premier commit"<<endl;
+    cout << "Clic droit sur le projet" << endl;
     return 0;
 }
